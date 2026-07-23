@@ -56,15 +56,6 @@ The objective is to centralize stint performance, tyre degradation and lap time 
 
 ---
 
-## Software
-
-- Python (frontend developed in collaboration using HTML, CSS and JavaScript)
-- F1 MultiViewer
-- Microsoft Excel
-- WordPress
-
----
-
 ## FIA-accredited events
 
 - Miami Grand Prix
@@ -80,7 +71,7 @@ The objective is to centralize stint performance, tyre degradation and lap time 
 
 Technical articles and analyses:
 
-🔗 **F1inGenerale**  
+🔗 **F1inGenerale.com**  
 https://f1ingenerale.com/author/m-venezia/
 
 ---
