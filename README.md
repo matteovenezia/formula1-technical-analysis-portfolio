@@ -39,7 +39,7 @@ The software consists of two complementary modules.
 
 ### Post-Processing Interface
 
-- Space-based telemetry comparison
+- Distance-based telemetry comparison
 - Multi-lap overlay and comparison
 - Engineering plots for technical articles
 
