@@ -21,7 +21,7 @@ My work is supported by **custom-developed Python telemetry tools**, enabling en
 
 ## Custom telemetry analysis tools
 
-To support my technical analyses, I developed custom telemetry analysis software based on Python. The graphical interface was developed in collaboration with a colleague in Computer Science using HTML, CSS and JavaScript.
+To support my technical analyses, I developed the Python telemetry processing and analysis logic, while the graphical interface was developed in collaboration with a colleague in Computer Science using HTML, CSS and JavaScript.
 
 The software consists of two complementary modules.
 
