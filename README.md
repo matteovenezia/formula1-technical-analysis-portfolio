@@ -83,11 +83,3 @@ https://www.linkedin.com/in/matteo-venezia-927b411ba/
 
 **X**  
 https://x.com/matteovenezia02/
-
----
-
-## Repository contents
-
-This repository showcases selected Formula 1 technical analyses and engineering visualizations.
-
-Original telemetry datasets, custom analysis software and copyrighted Formula 1 material are not included.
